@@ -103,9 +103,6 @@ The final trained model was rigorously evaluated on the held-out test set.
     ```
 2.  Open the project in RStudio.
 3.  Install the required R packages by running the following command in the R console:
-    ```R
-    install.packages(c("data.table", "cli", "ggplot2", "lubridate", "caret", "ranger", "pROC", "e1071"))
-    ```
 
 ### Execution
 1.  Place the three data files (`alter_geschlecht.csv`, `rest.csv`, `interesse.csv`) in the project's root directory or a `data/` subfolder (and adjust the file paths in the script if necessary).
