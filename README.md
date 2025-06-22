@@ -1,5 +1,3 @@
-# Marketing Affinity Score Model for Car Insurance
-
 This project focuses on analyzing customer data to build a predictive model that identifies customers with a high affinity for purchasing a car insurance policy. The goal is to leverage data science and machine learning (ML) techniques in R to help focus marketing efforts on the most promising leads.
 
 The entire analysis, from data exploration to final model evaluation, is contained in the R script: `marketing_affinity_score_model.R`.
@@ -100,8 +98,8 @@ The final trained model was rigorously evaluated on the held-out test set.
 ### Installation
 1.  Clone this repository to your local machine:
     ```bash
-    git clone [your-repo-link]
-    cd [your-repo-directory]
+    git clone github.com/ArifDoenmez/Marketing-Affinity-Score-Model-for-Car-Insurance
+    cd Marketing-Affinity-Score-Model-for-Car-Insurance
     ```
 2.  Open the project in RStudio.
 3.  Install the required R packages by running the following command in the R console:
