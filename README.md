@@ -1,6 +1,6 @@
 # Marketing Affinity Score Model for Car Insurance
 
-This project focuses on analyzing customer data to build a predictive model that identifies customers with a high affinity for purchasing a car insurance policy. The goal is to leverage data science and machine learning techniques in R to help focus marketing efforts on the most promising leads.
+This project focuses on analyzing customer data to build a predictive model that identifies customers with a high affinity for purchasing a car insurance policy. The goal is to leverage data science and machine learning (ML) techniques in R to help focus marketing efforts on the most promising leads.
 
 The entire analysis, from data exploration to final model evaluation, is contained in the R script: `marketing_affinity_score_model.R`.
 
@@ -51,7 +51,7 @@ The analysis is based on a dataset provided in three separate `.csv` files, whic
 
 ## Technical Implementation
 
-The project follows a structured data science methodology implemented entirely in R.
+The project follows a structured data science and ML methodology implemented entirely in R.
 
 ### 1. Data Preparation and EDA
 - **Data Integration:** The three source files were efficiently loaded and merged into a single `data.table` object.
