@@ -97,10 +97,6 @@ The final trained model was rigorously evaluated on the held-out test set.
 
 ### Installation
 1.  Clone this repository to your local machine:
-    ```bash
-    git clone github.com/ArifDoenmez/Marketing-Affinity-Score-Model-for-Car-Insurance
-    cd Marketing-Affinity-Score-Model-for-Car-Insurance
-    ```
 2.  Open the project in RStudio.
 3.  Install the required R packages by running the following command in the R console:
 
