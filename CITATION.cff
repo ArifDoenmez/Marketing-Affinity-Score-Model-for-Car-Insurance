@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dönmez"
+  given-names: "Arif"
+  orcid: "https://orcid.org/0000-0003-3828-7724"
+title: "Marketing-Affinity-Score-Model-for-Car-Insurance"
+version: 1.0.0
+doi: 10.5281/zenodo.15830713
+date-released: 2025-07-07
+url: "https://github.com/ArifDoenmez/Marketing-Affinity-Score-Model-for-Car-Insurance"
