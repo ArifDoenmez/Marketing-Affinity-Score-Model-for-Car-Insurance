@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1006723780.svg)](https://doi.org/10.5281/zenodo.15830712)
+
 This project focuses on analyzing customer data to build a predictive model that identifies customers with a high affinity for purchasing a car insurance policy. The goal is to leverage data science and machine learning (ML) techniques in R to help focus marketing efforts on the most promising leads.
 
 The entire analysis, from data exploration to final model evaluation, is contained in the R script: `marketing_affinity_score_model.R`.
